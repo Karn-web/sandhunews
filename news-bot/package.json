@@ -1,15 +1,1 @@
-{
-  "name": "sandhunews-bot",
-  "version": "1.0.0",
-  "description": "AI News Bot for SandhuNews",
-  "main": "scheduler.js",
-  "scripts": {
-    "start": "node scheduler.js",
-    "test": "node -e \"require('./scheduler').runBot()\"",
-    "now": "node -e \"const {runBot} = require('./scheduler'); runBot()\""
-  },
-  "dependencies": {
-    "rss-parser": "^3.13.0",
-    "node-cron": "^3.0.3"
-  }
-}
+{"name":"sandhunews-bot","version":"1.0.0"}
