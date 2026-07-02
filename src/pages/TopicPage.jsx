@@ -5,6 +5,26 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  '7-killed-6-injured-as-boulders-cave-in-at-quarry-near-bengal-1782985670404': {
+    title: '7 killed, 6 injured as boulders cave in at quarry near Bengaluru',
+    summary: 'A devastating rockfall at a quarry in Ramanagara claimed the lives of seven workers and injured at least six others',
+    image: 'https://source.unsplash.com/800x600/?news,headlines',
+    category: 'Top News',
+    tag: 'Hot',
+    sources: ["Times of India"],
+    stats: [{"value":"2026","label":"Year"},{"value":"24/7","label":"Coverage"}],
+    content: `7 killed, 6 injured as boulders cave in at quarry near Bengaluru has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that A devastating rockfall at a quarry in Ramanagara claimed the lives of seven workers and injured at least six others.
+
+According to sources, The tragedy occurred at Cauvery Crushers when loose boulders collapsed on a group of around 20 men.
+
+It has been revealed that Families of the deceased, who were migrant workers seeking daily wages, are left heartbroken.
+
+Analysts suggest that Authorities have pledged action against illegal quarrying activities.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'telangana-cm-revanth-to-visit-midjil-where-his-political-jou-1782982461842': {
     title: 'Telangana CM Revanth to visit Midjil, where his political journey began two decades ago',
     summary: 'The visit is being billed not as a routine government programme but as a thanksgiving gesture to the people who first elected him and launched a political journey',
