@@ -5,6 +5,20 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'adani-enterprises-uaes-ihc-to-invest-108-lakh-crore-in-odish-1782981473827': {
+    title: 'Adani Enterprises, UAE’s IHC to invest ₹1.08 lakh crore in Odisha aluminium project',
+    summary: 'The project will be developed in two phases, with an investment of approximately ₹66,000 crore in Phase I and ₹44,000 crore in Phase II',
+    image: 'https://source.unsplash.com/800x600/?india,news',
+    category: 'India',
+    tag: 'Trending',
+    sources: ["The Hindu"],
+    stats: [{"value":"1.4B","label":"Population"},{"value":"28","label":"States"}],
+    content: `Adani Enterprises, UAE’s IHC to invest ₹1.08 lakh crore in Odisha aluminium project has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that The project will be developed in two phases, with an investment of approximately ₹66,000 crore in Phase I and ₹44,000 crore in Phase II.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'deeply-distressing-india-slams-demolition-of-125yearold-gurd-1782981464840': {
     title: '‘Deeply distressing’: India slams demolition of 125-year-old gurdwara in Pakistan',
     summary: '‘Deeply distressing’: India slams demolition of 125-year-old gurdwara in Pakistan',
