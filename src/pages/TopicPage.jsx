@@ -5,6 +5,24 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'tamil-nadu-govt-moves-sc-against-madras-hc-order-banning-cow-1782979977024': {
+    title: 'Tamil Nadu govt moves SC against Madras HC order banning cow slaughter',
+    summary: 'Tamil Nadu has approached the Supreme Court challenging the Madras High Court\'s sweeping ban on cow and calf slaughter',
+    image: 'https://source.unsplash.com/800x600/?news,headlines',
+    category: 'Top News',
+    tag: 'Hot',
+    sources: ["Times of India"],
+    stats: [{"value":"2026","label":"Year"},{"value":"24/7","label":"Coverage"}],
+    content: `Tamil Nadu govt moves SC against Madras HC order banning cow slaughter has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that Tamil Nadu has approached the Supreme Court challenging the Madras High Court's sweeping ban on cow and calf slaughter.
+
+According to sources, The state argues the High Court's order, based on a 1976 ruling, contradicts the Tamil Nadu Animal Preservation Act, 1958.
+
+It has been revealed that This Act permits the slaughter of older, unfit cows under specific conditions, a provision the state contends was ignored by the blanket prohibition.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'demography-panel-to-study-population-changes-post-2011-censu-1782979967526': {
     title: 'Demography panel to study population changes post 2011 Census, prepares detailed questionnaire for States',
     summary: 'The High-Level Committee on Demographic Changes will seek details of population changes and increase in settlements since the 2011 Census; it will also ask the ECI for data on SIR deletions',
