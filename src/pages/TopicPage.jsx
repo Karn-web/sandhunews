@@ -5,6 +5,20 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'india-asks-whatsapp-to-pause-username-feature-rollout-over-f-1782981772808': {
+    title: 'India asks WhatsApp to pause username feature rollout over fraud concerns',
+    summary: 'WhatsApp says the feature is not yet live and that it has built in safeguards against potential scams and impersonation',
+    image: 'https://source.unsplash.com/800x600/?world,global',
+    category: 'World',
+    tag: 'Popular',
+    sources: ["BBC India"],
+    stats: [{"value":"8B","label":"Global Pop"},{"value":"195","label":"Countries"}],
+    content: `India asks WhatsApp to pause username feature rollout over fraud concerns has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that WhatsApp says the feature is not yet live and that it has built in safeguards against potential scams and impersonation.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'adani-enterprises-uaes-ihc-to-invest-108-lakh-crore-in-odish-1782981473827': {
     title: 'Adani Enterprises, UAE’s IHC to invest ₹1.08 lakh crore in Odisha aluminium project',
     summary: 'The project will be developed in two phases, with an investment of approximately ₹66,000 crore in Phase I and ₹44,000 crore in Phase II',
