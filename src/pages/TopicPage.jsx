@@ -5,6 +5,22 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'lie-detector-test-for-siya-goyal-lover-chetan-in-fiance-keta-1782981456164': {
+    title: 'Lie Detector Test For Siya Goyal, Lover Chetan In Fiance Ketan Agarwal\'s Murder Case',
+    summary: 'Agarwal was allegedly pushed to death from a cliff at Lohagad Fort in Pune by Goyal and Chaudhary',
+    image: 'https://source.unsplash.com/800x600/?news,headlines',
+    category: 'Top News',
+    tag: 'Hot',
+    sources: ["NDTV"],
+    stats: [{"value":"2026","label":"Year"},{"value":"24/7","label":"Coverage"}],
+    content: `Lie Detector Test For Siya Goyal, Lover Chetan In Fiance Ketan Agarwal's Murder Case has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that Agarwal was allegedly pushed to death from a cliff at Lohagad Fort in Pune by Goyal and Chaudhary.
+
+According to sources, Both the accused are under police custody until July 3 as the investigation continues.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'tamil-nadu-govt-moves-sc-against-madras-hc-order-banning-cow-1782979977024': {
     title: 'Tamil Nadu govt moves SC against Madras HC order banning cow slaughter',
     summary: 'Tamil Nadu has approached the Supreme Court challenging the Madras High Court\'s sweeping ban on cow and calf slaughter',
