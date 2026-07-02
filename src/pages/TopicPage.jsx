@@ -5,6 +5,20 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'first-englandindia-t20-abandoned-because-of-rain-1782982443062': {
+    title: 'First England-India T20 abandoned because of rain',
+    summary: 'England’s attempt to move on from a dreadful start to the summer is hit by the weather as their first T20 against India is abandoned because of rain',
+    image: 'https://source.unsplash.com/800x600/?world,global',
+    category: 'World',
+    tag: 'Popular',
+    sources: ["BBC India"],
+    stats: [{"value":"8B","label":"Global Pop"},{"value":"195","label":"Countries"}],
+    content: `First England-India T20 abandoned because of rain has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that England’s attempt to move on from a dreadful start to the summer is hit by the weather as their first T20 against India is abandoned because of rain.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'three-fans-of-actor-darshan-held-for-threatening-witness-in--1782981789400': {
     title: 'Three fans of actor Darshan held for threatening witness in Renukaswamy murder case',
     summary: 'Police said one of the accused is the owner of the SUV that was allegedly used to transport Renukaswamy’s body from a shed in R',

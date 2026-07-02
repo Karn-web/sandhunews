@@ -1,3 +1,7 @@
+cd C:\Users\User\Desktop\sandhunews
+
+# Create clean package.json
+@"
 {
   "name": "sandhunews",
   "private": true,
@@ -5,17 +9,28 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",    ← THIS MUST EXIST
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.x",
-    "react-dom": "^18.x",
-    "react-router-dom": "^6.x"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1"
   },
   "devDependencies": {
-    "vite": "^5.x",
-    "@vitejs/plugin-react": "^4.x",
-    "tailwindcss": "^3.x"
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.1"
   }
 }
+"@ | Set-Content package.json -Encoding UTF8
+
+# Validate
+node -e "JSON.parse(require('fs').readFileSync('package.json')); console.log('Valid JSON!')"
+
+# Push
+git add package.json
+git commit -m "Fix: Clean package.json"
+git push origin main
