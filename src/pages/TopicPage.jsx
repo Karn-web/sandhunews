@@ -5,6 +5,20 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'before-fiance-ketans-murder-a-push-off-cliff-rehearsal-by-si-1782982453145': {
+    title: 'Before Fiance Ketan\'s Murder, A \'Push Off Cliff\' Rehearsal By Siya, Lover',
+    summary: 'The Pune police have confirmed that Siya Goyal and Chetan Chaudhary practiced how to push Ketan off a cliff on a hill in Pune\'s Lulla Nagar',
+    image: 'https://source.unsplash.com/800x600/?news,headlines',
+    category: 'Top News',
+    tag: 'Hot',
+    sources: ["NDTV"],
+    stats: [{"value":"2026","label":"Year"},{"value":"24/7","label":"Coverage"}],
+    content: `Before Fiance Ketan's Murder, A 'Push Off Cliff' Rehearsal By Siya, Lover has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that The Pune police have confirmed that Siya Goyal and Chetan Chaudhary practiced how to push Ketan off a cliff on a hill in Pune's Lulla Nagar.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'first-englandindia-t20-abandoned-because-of-rain-1782982443062': {
     title: 'First England-India T20 abandoned because of rain',
     summary: 'England’s attempt to move on from a dreadful start to the summer is hit by the weather as their first T20 against India is abandoned because of rain',
