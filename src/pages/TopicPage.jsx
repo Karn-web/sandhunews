@@ -5,6 +5,20 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'in-telangana-congress-brs-faceoff-over-gurukul-tenders-and-s-1782979960300': {
+    title: 'In Telangana, Congress, BRS Face-Off Over Gurukul Tenders And State Debt',
+    summary: 'Congress challenges BRS on Gurukul school tenders worth Rs 1143 crore in Telangana',
+    image: 'https://source.unsplash.com/800x600/?news,headlines',
+    category: 'Top News',
+    tag: 'Hot',
+    sources: ["NDTV"],
+    stats: [{"value":"2026","label":"Year"},{"value":"24/7","label":"Coverage"}],
+    content: `In Telangana, Congress, BRS Face-Off Over Gurukul Tenders And State Debt has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that Congress challenges BRS on Gurukul school tenders worth Rs 1143 crore in Telangana.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'demography-panel-to-study-population-changes-post-2011-censu-1782979783092': {
     title: 'Demography panel to study population changes post 2011 Census, prepares detailed questionnaire for States',
     summary: 'The High-Level Committee on Demographic Changes will seek details of population changes and increase in settlements since the 2011 Census; it will also ask the ECI for data on SIR deletions',
