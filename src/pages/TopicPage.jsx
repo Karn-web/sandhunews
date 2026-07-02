@@ -5,6 +5,24 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'tattoo-on-right-forearm-costs-two-crpf-inspectors-promotion--1782985675903': {
+    title: 'Tattoo on right forearm costs two CRPF inspectors promotion; Delhi HC dismisses pleas',
+    summary: 'Two CRPF inspectors were denied promotion to Assistant Commandant due to tattoos on their right forearms, deemed the saluting limb',
+    image: 'https://source.unsplash.com/800x600/?news,headlines',
+    category: 'Top News',
+    tag: 'Hot',
+    sources: ["Times of India"],
+    stats: [{"value":"2026","label":"Year"},{"value":"24/7","label":"Coverage"}],
+    content: `Tattoo on right forearm costs two CRPF inspectors promotion; Delhi HC dismisses pleas has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that Two CRPF inspectors were denied promotion to Assistant Commandant due to tattoos on their right forearms, deemed the saluting limb.
+
+According to sources, The Delhi High Court upheld the decision, clarifying that while tattoos aren't banned, strict rules govern their placement, size, and content.
+
+It has been revealed that The court ruled that having tattoos removed after being declared unfit doesn't qualify them for the current vacancies, advising them to reapply for future examinations.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   '7-killed-6-injured-as-boulders-cave-in-at-quarry-near-bengal-1782985670404': {
     title: '7 killed, 6 injured as boulders cave in at quarry near Bengaluru',
     summary: 'A devastating rockfall at a quarry in Ramanagara claimed the lives of seven workers and injured at least six others',
