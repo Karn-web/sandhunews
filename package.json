@@ -1,7 +1,3 @@
-cd C:\Users\User\Desktop\sandhunews
-
-# Create clean package.json
-@"
 {
   "name": "sandhunews",
   "private": true,
@@ -25,12 +21,3 @@ cd C:\Users\User\Desktop\sandhunews
     "vite": "^5.3.1"
   }
 }
-"@ | Set-Content package.json -Encoding UTF8
-
-# Validate
-node -e "JSON.parse(require('fs').readFileSync('package.json')); console.log('Valid JSON!')"
-
-# Push
-git add package.json
-git commit -m "Fix: Clean package.json"
-git push origin main
