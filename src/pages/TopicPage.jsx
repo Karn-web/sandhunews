@@ -5,6 +5,20 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'how-a-mans-fatal-fall-at-a-fort-in-india-sparked-a-trial-by--1782985681615': {
+    title: 'How a man\'s fatal fall at a fort in India sparked a trial by media',
+    summary: 'A young woman\'s arrest after her fiance\'s death has dominated headlines and set off a flurry of speculation',
+    image: 'https://source.unsplash.com/800x600/?world,global',
+    category: 'World',
+    tag: 'Popular',
+    sources: ["BBC India"],
+    stats: [{"value":"8B","label":"Global Pop"},{"value":"195","label":"Countries"}],
+    content: `How a man's fatal fall at a fort in India sparked a trial by media has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that A young woman's arrest after her fiance's death has dominated headlines and set off a flurry of speculation.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'tattoo-on-right-forearm-costs-two-crpf-inspectors-promotion--1782985675903': {
     title: 'Tattoo on right forearm costs two CRPF inspectors promotion; Delhi HC dismisses pleas',
     summary: 'Two CRPF inspectors were denied promotion to Assistant Commandant due to tattoos on their right forearms, deemed the saluting limb',
