@@ -5,6 +5,20 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'deeply-distressing-india-slams-demolition-of-125yearold-gurd-1782981464840': {
+    title: '‘Deeply distressing’: India slams demolition of 125-year-old gurdwara in Pakistan',
+    summary: '‘Deeply distressing’: India slams demolition of 125-year-old gurdwara in Pakistan',
+    image: 'https://source.unsplash.com/800x600/?india,news',
+    category: 'India',
+    tag: 'Trending',
+    sources: ["Indian Express"],
+    stats: [{"value":"1.4B","label":"Population"},{"value":"28","label":"States"}],
+    content: `‘Deeply distressing’: India slams demolition of 125-year-old gurdwara in Pakistan has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'lie-detector-test-for-siya-goyal-lover-chetan-in-fiance-keta-1782981456164': {
     title: 'Lie Detector Test For Siya Goyal, Lover Chetan In Fiance Ketan Agarwal\'s Murder Case',
     summary: 'Agarwal was allegedly pushed to death from a cliff at Lohagad Fort in Pune by Goyal and Chaudhary',
