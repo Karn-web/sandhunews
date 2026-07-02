@@ -5,6 +5,22 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'three-fans-of-actor-darshan-held-for-threatening-witness-in--1782981789400': {
+    title: 'Three fans of actor Darshan held for threatening witness in Renukaswamy murder case',
+    summary: 'Police said one of the accused is the owner of the SUV that was allegedly used to transport Renukaswamy’s body from a shed in R',
+    image: 'https://source.unsplash.com/800x600/?india,news',
+    category: 'India',
+    tag: 'Trending',
+    sources: ["The Hindu"],
+    stats: [{"value":"1.4B","label":"Population"},{"value":"28","label":"States"}],
+    content: `Three fans of actor Darshan held for threatening witness in Renukaswamy murder case has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that Police said one of the accused is the owner of the SUV that was allegedly used to transport Renukaswamy’s body from a shed in R.
+
+According to sources, Nagar to a stormwater drain at Kamakshipalya, and also a witness in the murder case.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'adani-enterprises-uaes-ihc-to-invest-108-lakh-crore-in-odish-1782981780912': {
     title: 'Adani Enterprises, UAE’s IHC to invest ₹1.08 lakh crore in Odisha aluminium project',
     summary: 'The project will be developed in two phases, with an investment of approximately ₹66,000 crore in Phase I and ₹44,000 crore in Phase II',
