@@ -5,6 +5,20 @@ import Breadcrumb from '../components/Breadcrumb'
 import BackButton from '../components/BackButton'
 
 const topicsData = {
+  'telangana-cm-revanth-to-visit-midjil-where-his-political-jou-1782982461842': {
+    title: 'Telangana CM Revanth to visit Midjil, where his political journey began two decades ago',
+    summary: 'The visit is being billed not as a routine government programme but as a thanksgiving gesture to the people who first elected him and launched a political journey',
+    image: 'https://source.unsplash.com/800x600/?india,news',
+    category: 'India',
+    tag: 'Trending',
+    sources: ["The Hindu"],
+    stats: [{"value":"1.4B","label":"Population"},{"value":"28","label":"States"}],
+    content: `Telangana CM Revanth to visit Midjil, where his political journey began two decades ago has become a major talking point across the nation. The developments in this story continue to unfold rapidly, with significant implications for the public.
+
+Reports indicate that The visit is being billed not as a routine government programme but as a thanksgiving gesture to the people who first elected him and launched a political journey.
+
+As this story develops, SandhuNews will continue to provide updates and in-depth analysis. Stay tuned for more coverage on this and other important topics affecting India and Punjab.`
+  },
   'before-fiance-ketans-murder-a-push-off-cliff-rehearsal-by-si-1782982453145': {
     title: 'Before Fiance Ketan\'s Murder, A \'Push Off Cliff\' Rehearsal By Siya, Lover',
     summary: 'The Pune police have confirmed that Siya Goyal and Chetan Chaudhary practiced how to push Ketan off a cliff on a hill in Pune\'s Lulla Nagar',
